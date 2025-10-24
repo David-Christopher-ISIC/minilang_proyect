@@ -1,0 +1,7 @@
+antlr4-python3-runtime==4.13.2
+antlr4-tools==0.2.2
+asgiref==3.10.0
+Django==5.2.7
+install-jdk==1.1.0
+sqlparse==0.5.3
+gunicorn
